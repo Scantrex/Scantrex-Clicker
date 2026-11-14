@@ -20,18 +20,10 @@
 
 ## 📸 Capturas
 
-<table>
-  <tr>
-    <td align="center"><b>⌨️ Teclado</b></td>
-    <td align="center"><b>🖱️ Ratón</b></td>
-    <td align="center"><b>⚙️ Ajustes</b></td>
-  </tr>
-  <tr>
-    <td><img src="<img width="520" height="750" alt="Captura de pantalla 2026-11-14 170745" src="https://github.com/user-attachments/assets/20086d40-acad-4a6b-9d20-da9d7dffc1bd" />" alt="Pestaña Teclado" width="300"></td>
-    <td><img src="assets/raton.png" alt="Pestaña Ratón" width="300"></td>
-    <td><img src="assets/ajustes.png" alt="Pestaña Ajustes" width="300"></td>
-  </tr>
-</table>
+<img width="521" height="750" alt="Captura de pantalla 2026-11-14 170805" src="https://github.com/user-attachments/assets/18e28429-d510-44c7-9fb9-7fae47626bd8" />
+<img width="516" height="748" alt="Captura de pantalla 2026-11-14 170759" src="https://github.com/user-attachments/assets/c3f37fb4-fff3-43e5-9af0-2786f6c264d0" />
+<img width="520" height="750" alt="Captura de pantalla 2026-11-14 170745" src="https://github.com/user-attachments/assets/ccd62ae0-d368-4c3b-a054-a299b1e0c7db" />
+
 
 ## ✨ Características
 
