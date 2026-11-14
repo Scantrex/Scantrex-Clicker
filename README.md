@@ -95,4 +95,7 @@ Distribuido bajo la licencia MIT.
 
 ---
 
-<p align="center">Hecho con ❤️ por <a href="https://github.com/TU_USUARIO">[Scantrex](https://github.com/Scantrex)</a></p>
+<p align="center">
+  Hecho con ❤️ por <a href="https://github.com/Scantrex"><b>Scantrex</b></a> ·
+  <a href="https://github.com/Scantrex?tab=repositories">Ver más proyectos</a>
+</p>
