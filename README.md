@@ -1,4 +1,3 @@
-
 <h1 align="center">⚡ ScantrexClicker</h1>
 
 <p align="center">
@@ -20,10 +19,18 @@
 
 ## 📸 Capturas
 
-<img width="521" height="750" alt="Captura de pantalla 2026-11-14 170805" src="https://github.com/user-attachments/assets/18e28429-d510-44c7-9fb9-7fae47626bd8" />
-<img width="516" height="748" alt="Captura de pantalla 2026-11-14 170759" src="https://github.com/user-attachments/assets/c3f37fb4-fff3-43e5-9af0-2786f6c264d0" />
-<img width="520" height="750" alt="Captura de pantalla 2026-11-14 170745" src="https://github.com/user-attachments/assets/ccd62ae0-d368-4c3b-a054-a299b1e0c7db" />
-
+<table>
+  <tr>
+    <td align="center"><b>⌨️ Teclado</b></td>
+    <td align="center"><b>🖱️ Ratón</b></td>
+    <td align="center"><b>⚙️ Ajustes</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/ccd62ae0-d368-4c3b-a054-a299b1e0c7db" alt="Pestaña Teclado" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/c3f37fb4-fff3-43e5-9af0-2786f6c264d0" alt="Pestaña Ratón" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/18e28429-d510-44c7-9fb9-7fae47626bd8" alt="Pestaña Ajustes" width="300"></td>
+  </tr>
+</table>
 
 ## ✨ Características
 
@@ -81,6 +88,11 @@ No necesita instalación, es un único `.exe` portable.
 ## 🤝 Contribuir
 
 ¿Has encontrado un fallo o tienes una idea? Abre un [issue](../../issues) y cuéntalo.
+
+## 📄 Licencia
+
+Distribuido bajo la licencia MIT.
+
 ---
 
 <p align="center">Hecho con ❤️ por <a href="https://github.com/TU_USUARIO">Scantrex</a></p>
