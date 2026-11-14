@@ -90,4 +90,4 @@ No necesita instalación, es un único `.exe` portable.
 ¿Has encontrado un fallo o tienes una idea? Abre un [issue](../../issues) y cuéntalo.
 ---
 
-<p align="center">Hecho con ❤️ por <a href="https://github.com/TU_USUARIO">TU_USUARIO</a></p>
+<p align="center">Hecho con ❤️ por <a href="https://github.com/TU_USUARIO">Scantrex</a></p>
