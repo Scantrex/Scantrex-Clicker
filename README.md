@@ -69,7 +69,7 @@
 No necesita instalación, es un único `.exe` portable.
 
 1. Ve a [**Releases**](../../releases/latest)
-2. Descarga `ScantrexClicker.exe`
+2. Descarga `ScantrexClicker.7z`
 3. Ejecútalo con doble clic
 
 > **Requisitos:** Windows 10 u 11 de 64 bits.
