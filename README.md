@@ -88,11 +88,6 @@ No necesita instalación, es un único `.exe` portable.
 ## 🤝 Contribuir
 
 ¿Has encontrado un fallo o tienes una idea? Abre un [issue](../../issues) y cuéntalo.
-
-## 📄 Licencia
-
-Distribuido bajo la licencia MIT. Consulta el archivo `LICENSE` para más información.
-
 ---
 
 <p align="center">Hecho con ❤️ por <a href="https://github.com/TU_USUARIO">TU_USUARIO</a></p>
