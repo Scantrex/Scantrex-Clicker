@@ -1,3 +1,4 @@
+
 <h1 align="center">⚡ ScantrexClicker</h1>
 
 <p align="center">
@@ -26,7 +27,7 @@
     <td align="center"><b>⚙️ Ajustes</b></td>
   </tr>
   <tr>
-    <td><img src="assets/teclado.png" alt="Pestaña Teclado" width="300"></td>
+    <td><img src="<img width="520" height="750" alt="Captura de pantalla 2026-11-14 170745" src="https://github.com/user-attachments/assets/20086d40-acad-4a6b-9d20-da9d7dffc1bd" />" alt="Pestaña Teclado" width="300"></td>
     <td><img src="assets/raton.png" alt="Pestaña Ratón" width="300"></td>
     <td><img src="assets/ajustes.png" alt="Pestaña Ajustes" width="300"></td>
   </tr>
